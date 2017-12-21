@@ -1,4 +1,5 @@
 //Programmer: Chris Blanks
+//Date: 12/20/2017
 //Purpose: Make a simple 7-Segment LED system with red LEDs, 470 Ohm Resistors, and button switches.
 //Note: The current code allows for the selection of the numbers 0 to 7, but could be extended further with extra LEDs and button switches.
 
